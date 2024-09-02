@@ -1,0 +1,29 @@
+ {
+	"Mean RR": "nni_mean",
+	"Mean Heart Rate": "hr_mean",
+	"Minimum Heart Rate": "hr_min",
+	"Maximum Heart Rate": "hr_max",
+	"Standard deviation of Heart Rate": "hr_std",
+	"SDNN": "sdnn",
+	"SDSD": "sdsd",
+	"RMSSD": "rmssd",
+	"NN50": "nn50",
+	"pNN50": "pnn50",
+	"NN20": "nn20",
+	"pNN20": "pnn20",
+	"Triangular index": "tri_index",
+	"TINN": "tinn",
+	"STRESS INDEX": "stress_index",
+
+	"FFT LF/HF Ratio": "fft_ratio",
+
+	"Autoregressive LF/HF Ratio": "ar_ratio",
+
+	"SD1": "sd1",
+	"SD2": "sd2",
+	"SD2/SD1": "sd_ratio",
+	"Approximate Entropy": "apen",
+	"Sample Entropy" : "sampen",
+	"DFA alpha 1 (long term fluctuation)": "dfa_alpha1",
+	"DFA alpha 2 (long term fluctuation)": "dfa_alpha2"
+}

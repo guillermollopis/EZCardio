@@ -1,0 +1,6 @@
+* text=auto
+*.py text eol=lf
+bin/mac/EZcardio.app.zip filter=lfs diff=lfs merge=lfs -text
+bin/windows/EZcardio.exe filter=lfs diff=lfs merge=lfs -text
+bin/mac/*.zip filter=lfs diff=lfs merge=lfs -text
+bin/windows/*.exe filter=lfs diff=lfs merge=lfs -text
