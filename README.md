@@ -2,7 +2,7 @@
 
 ## Description
 
-This program offers a robust platform for analysing heart rate variability (HRV). Users can import HRV signals in various formats and utilise both manual and automated tools to correct outliers, reduce noise, and compute statistical analyses. Unlike many other tools, this program provides a transparent view of the automated processes, ensuring that it does not operate as a "black box." This program was done as a **master thesis of the Master in Computational Cognitive Science from the University of Groningen**. For more detailed information, refer to the master thesis manuscript.
+This program offers a robust platform for analysing heart rate variability (HRV). Users can import HRV signals in various formats and utilise both manual and automated tools to correct outliers, reduce noise, and compute statistical analyses. Unlike many other tools, this program provides a transparent view of the automated processes, ensuring that it does not operate as a "black box." This program was done as a **master thesis of the Master in Computational Cognitive Science from the University of Groningen**. For more detailed information, refer to the master thesis manuscript in the docs folder.
 
 ## Getting Started
 
