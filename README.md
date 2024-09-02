@@ -11,9 +11,11 @@ git clone https://github.com/guillermollopis/EZCardio
 cd EZCardio
 conda env create -f /env/environment.yml
 conda activate ezcardio_env
+```
 To start the application, go to the src path and run:
 ```bash
 python main.py
+```
 Downloads
 Executable versions of the program are available for both Mac and Windows. These versions are designed for ease of use without the need to install Python or any dependencies.
 Download for Windows
