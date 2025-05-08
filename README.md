@@ -41,3 +41,5 @@ If you have any questions, feedback, or suggestions, feel free to reach out via 
 
 This project is licensed under a non-commercial licence. It incorporates open-source software developed by others. All the software used is free to use, but some has non-commercial licences. You may refer to each package’s specific licence if you wish. See the licence file for more details.
 
+If using EZCardio in your research, please mention the program.
+
